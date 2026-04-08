@@ -1,32 +1,13 @@
-# 💫 About Me:
-🎓 CSE ’25 | Full Stack Developer (MERN Stack)
+💫 About Me:
 
-I am a Full Stack Developer with hands-on experience in building scalable, secure, and well-structured web applications using the MERN stack.
+🎓 CSE ’25 | Full Stack Developer (MERN Stack)<br><br>I am a Full Stack Developer with hands-on experience in building scalable, secure, and well-structured web applications. I work across both backend and frontend, with a strong focus on developing efficient server-side systems and clean, user-friendly interfaces.<br><br>On the backend, I have experience in designing REST APIs, implementing authentication using JWT, and building structured and maintainable architectures. On the frontend, I create responsive and intuitive user interfaces that integrate seamlessly with backend services.<br><br>I have worked on projects involving end-to-end application development, including CRUD operations, API integrations, and complete system flow from UI to backend.<br><br>I am a quick learner, detail-oriented, and continuously improving my skills in modern web technologies and system design.<br><br>
 
-🔹 Backend:
-- Design and develop RESTful APIs  
-- Implement secure authentication using JWT  
-- Build structured and maintainable architectures  
+🌐 Socials:
 
-🔹 Frontend:
-- Build responsive and user-friendly interfaces using React.js  
-- Integrate frontend seamlessly with backend services  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-shah-a7b5773a3)
 
-🔹 Experience:
-- Developed end-to-end web applications  
-- Worked on CRUD operations and API integrations  
+💻 Tech Stack:
 
-I am a quick learner, detail-oriented, and continuously improving my skills in modern web technologies.
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-shah-a7b5773a3)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayshah.tech02@gmail.com)
-
----
-
-## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,24 +23,11 @@ I am a quick learner, detail-oriented, and continuously improving my skills in m
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+📊 GitHub Stats:
 
-## 🚀 Projects:
-🔹 Food Delivery App (MERN Stack)
-- Built full-stack application with authentication (JWT)
-- Developed REST APIs for users, cart, and orders
-- Designed responsive UI using React.js
+<br/>
+<br/>
 
----
+🏆 GitHub Trophies
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vijayshahtech02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=vijayshahtech02&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayshahtech02&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=vijayshahtech02&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
